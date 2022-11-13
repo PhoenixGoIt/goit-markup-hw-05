@@ -553,7 +553,7 @@ img {
   background-color: rgba(0, 0, 0, 0.2);
   z-index: 1;
   opacity: 1;
-  transition: opacity 150ms linear, visibility 150ms linear;
+  transition: opacity 250ms linear, visibility 250ms linear;
 }
 .backdrop.is-hidden {
   visibility: hidden;
